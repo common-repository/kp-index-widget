@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KP Index Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-27 14:07+0000\n"
+"PO-Revision-Date: 2020-02-27 14:11+0000\n"
+"Last-Translator: smtlabo <gerard.koymans@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. Description of the plugin
+msgid "Affichage de l'indice KP dans un widget"
+msgstr "Display of KP index on wordpress widget"
+
+#: kp-index-class.php:56
+msgid "Affichage des prévisons géomagnétiques (KP)"
+msgstr "Geomagnetic Forecast (KP)"
+
+#: kp-index-class.php:84
+msgid "Afficher"
+msgstr "Show"
+
+#. Author URI of the plugin
+msgid "https://swissmediatools.ch/"
+msgstr "https://swissmediatools.ch/"
+
+#. URI of the plugin
+msgid "https://swissmediatools.ch/web/extensions-wordpress/kp-index-widget/"
+msgstr "https://swissmediatools.ch/web/extensions-wordpress/kp-index-widget/"
+
+#. Name of the plugin
+msgid "KP Index Widget"
+msgstr "KP Index Widget"
+
+#. Author of the plugin
+msgid "Swiss Media Tools"
+msgstr "Swiss Media Tools"
+
+#: kp-index-class.php:79
+msgid "Titre du Widget"
+msgstr "Widget Title"
